@@ -3,4 +3,10 @@ romeo and Juliet
 
 In fair Verona where we lay this scene
 
+JULIET: Ay, me!
+
+ROMEO: What light through yonder window breaks?
+
+JULIET: Wherefor art thou, Romeo?
+
 THE END
