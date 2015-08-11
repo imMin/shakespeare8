@@ -9,4 +9,6 @@ ROMEO: What light through yonder window breaks?
 
 JULIET: Wherefor art thou, Romeo?
 
+JULIET: Wherefor art thou, Romeo?
+
 THE END
